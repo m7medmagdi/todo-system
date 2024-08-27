@@ -35,9 +35,9 @@ The following libraries and frameworks are used in this project:
 
 ### Prerequisites
 
-- Java 11 or higher
+- Java 17 or higher
 - MySQL Server
-- Maven or Gradle
+- Maven
 
 ### Update Application Properties
 
